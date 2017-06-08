@@ -1,2 +1,2 @@
 # myNetwork
-Spring Boot Application to consure RESTful API generated using Hyperledger Composer
+Spring Boot Application to consume RESTful API generated using Hyperledger Composer
